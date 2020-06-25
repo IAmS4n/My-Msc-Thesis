@@ -1,0 +1,39 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1-2}مقدمه}{\reset@font\mtcSfont 11}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1-2‏.‏1}نمادها }{\reset@font\mtcSSfont 12}{subsection.2.1.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2-2} مدل‌های مولد‌‌ }{\reset@font\mtcSfont 13}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2-2‏.‏1}مدل‌ مولد بازگردنده مبتنی بر نمونه‌گیری}{\reset@font\mtcSSfont 13}{subsection.2.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode سختی بیشینه گرفتن از مدل}{\reset@font\mtcSSSfont 14}{section*.13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2-2‏.‏2}مدل‌های مولد مبتنی بر فضای نهان}{\reset@font\mtcSSfont 14}{subsection.2.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode  مدل‌ مولد بازگردنده مبتنی بر فضای نهان}{\reset@font\mtcSSSfont 15}{section*.14}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode مدل‌ مولد پیچشی مبتنی بر فضای نهان}{\reset@font\mtcSSSfont 16}{section*.17}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3-2}مدل‌های دسته‌بند }{\reset@font\mtcSfont 17}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3-2‏.‏1}مدل‌ دسته‌بند بازگردنده}{\reset@font\mtcSSfont 17}{subsection.2.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3-2‏.‏2}مدل‌ دسته‌بند پیچشی}{\reset@font\mtcSSfont 17}{subsection.2.3.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4-2}یادگیری مبتنی بر بیشینه درست‌نمایی}{\reset@font\mtcSfont 18}{section.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4-2‏.‏1}روش جبر معلم}{\reset@font\mtcSSfont 18}{subsection.2.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode اُریبی مواجهه}{\reset@font\mtcSSSfont 19}{section*.21}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4-2‏.‏2}روش نمونه برداری زمان‌بندی شده}{\reset@font\mtcSSfont 19}{subsection.2.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4-2‏.‏3}روش‌های مبتنی بر خودرمزگذار وردشی}{\reset@font\mtcSSfont 21}{subsection.2.4.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode شبکه‌ی \lr {LSTM} به عنوان رمزگشا}{\reset@font\mtcSSSfont 22}{section*.23}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode شبکه‌ی پیچشی به عنوان رمزگشا}{\reset@font\mtcSSSfont 23}{section*.25}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5-2}شبکه‌های مولد مقابله‌ای}{\reset@font\mtcSfont 23}{section.2.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5-2‏.‏1}بررسی تئوری}{\reset@font\mtcSSfont 24}{subsection.2.5.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6-2}یادگیری مقابله‌ای با استفاده از \lr {Gumbel Softmax}}{\reset@font\mtcSfont 25}{section.2.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6-2‏.‏1}تکنیک تنظیم مجدد برای توزیع دسته‌ای}{\reset@font\mtcSSfont 25}{subsection.2.6.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6-2‏.‏2} تقریبی مشتق‌پذیر برای نمونه‌گیری از توزیع دسته‌ای}{\reset@font\mtcSSfont 26}{subsection.2.6.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6-2‏.‏3}جزئیات روش}{\reset@font\mtcSSfont 27}{subsection.2.6.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7-2}یادگیری مقابله‌ای با استفاده از فضای ویژگی}{\reset@font\mtcSfont 29}{section.2.7}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7-2‏.‏1}روش جبر استاد}{\reset@font\mtcSSfont 29}{subsection.2.7.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7-2‏.‏2} روش \lr {TextGAN}}{\reset@font\mtcSSfont 31}{subsection.2.7.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8-2}یادگیری مقابله‌ای با استفاده از یادگیری تقویتی}{\reset@font\mtcSfont 32}{section.2.8}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode گرادیان سیاست}{\reset@font\mtcPfont 33}{section*.34}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8-2‏.‏1} روش \lr {SeqGAN}}{\reset@font\mtcSSfont 33}{subsection.2.8.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8-2‏.‏2} روش \lr {ORGAN}}{\reset@font\mtcSSfont 35}{subsection.2.8.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode استفاده از فاصله‌ی \lr {Wasserstein-1}}{\reset@font\mtcSSSfont 36}{section*.36}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8-2‏.‏3} روش \lr {RankGAN}}{\reset@font\mtcSSfont 36}{subsection.2.8.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8-2‏.‏4} روش \lr {LeakGAN}}{\reset@font\mtcSSfont 38}{subsection.2.8.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode شبکه‌های فئودالی}{\reset@font\mtcSSSfont 38}{section*.38}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode جزئیات روش}{\reset@font\mtcSSSfont 39}{section*.39}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8-2‏.‏5} روش \lr {MaliGAN}}{\reset@font\mtcSSfont 40}{subsection.2.8.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {9-2}یادگیری مقابله‌ای با رویکرد تولید دنباله‌ی «توزیع کلمه»}{\reset@font\mtcSfont 42}{section.2.9}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {10-2}جمع‌بندی}{\reset@font\mtcSfont 43}{section.2.10}}

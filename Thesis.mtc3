@@ -1,0 +1,17 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1-3}مقدمه}{\reset@font\mtcSfont 45}{section.3.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2-3}معیا‌رهای مبتنی بر احتمال مدل}{\reset@font\mtcSfont 46}{section.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2-3‏.‏1}منفی لگاریتم درست‌نمایی}{\reset@font\mtcSSfont 46}{subsection.3.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2-3‏.‏2}\lr {Perplexity}}{\reset@font\mtcSSfont 47}{subsection.3.2.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3-3}معیارهای مبتنی بر داده‌ی مصنوعی }{\reset@font\mtcSfont 47}{section.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3-3‏.‏1}منفی لگاریتم درست‌نمایی پیشگو}{\reset@font\mtcSSfont 47}{subsection.3.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3-3‏.‏2}معیار پیشنهادی - فاصله با پیشگو }{\reset@font\mtcSSfont 48}{subsection.3.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode فاصله‌ی \lr {Bhattacharyya}}{\reset@font\mtcSSSfont 48}{section*.42}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode فاصله‌ی \lr {Jeffrey}}{\reset@font\mtcSSSfont 49}{section*.43}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3-3‏.‏3}گرامر مستقل از متن}{\reset@font\mtcSSfont 50}{subsection.3.3.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4-3} معیارهای مبتنی بر $n$-گرام‌}{\reset@font\mtcSfont 50}{section.3.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4-3‏.‏1}\lr {BLEU}}{\reset@font\mtcSSfont 51}{subsection.3.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode نحوه‌ی محاسبه‌ی \lr {BLEU}}{\reset@font\mtcSSSfont 51}{section*.44}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4-3‏.‏2}\lr {Self-BLEU}}{\reset@font\mtcSSfont 52}{subsection.3.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4-3‏.‏3}معیار پیشنهادی - \lr {MS-Jaccard} }{\reset@font\mtcSSfont 52}{subsection.3.4.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5-3} معیار پیشنهادی - \lr {Fr\'echet BERT Distanc‌e} }{\reset@font\mtcSfont 53}{section.3.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6-3}جمع‌بندی}{\reset@font\mtcSfont 54}{section.3.6}}
